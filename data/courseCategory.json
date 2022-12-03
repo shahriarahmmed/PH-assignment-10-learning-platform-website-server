@@ -1,0 +1,22 @@
+[
+    {
+        "id": "01",
+        "name": "Web Development"
+    },
+    {
+        "id": "02",
+        "name": "App Development"
+    },
+    {
+        "id": "03",
+        "name": "Graphic Design"
+    },
+    {
+        "id": "04",
+        "name": "Digital Marketing"
+    },
+    {
+        "id": "05",
+        "name": "Cloud Computing"
+    }
+]

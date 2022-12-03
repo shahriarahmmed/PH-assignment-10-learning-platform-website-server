@@ -1,0 +1,258 @@
+[
+    {
+        "_id": "001",
+        "course_name": "Web Development with Javascript",
+        "instructor_info": {
+            "instructor_name": "Jhankar Mahabub",
+            "instructor_image": "https://phero-web.nyc3.cdn.digitaloceanspaces.com/website-prod-images/public/files/1646062178613.png"
+        },
+        "category_id": "01",
+        "rating": 4.4,
+        "thumbnail_url": "https://cdn.geekboots.com/geek/javascript-hero-1652702096795.webp",
+        "courseInfo": {
+            "course_duration": "40 Hour",
+            "enrolled": "1456"
+        },
+        "price": 5500,
+        "course_description": "This course will teach you the most popular programming language in the world. Which is JavaScript Yes the JavaScript If you are interested in building dynamic & interactive projects in web development then this is the right course for you. This course will start teaching you the very basics of JavaScript language and will gradually take you to the advanced level. You will learn a deep understanding of JavaScript concepts. You will see the beauty and power of JavaScript language and you would be able to apply all these skills in modern web development. Along the way. You will have quizzes coding assignments to polish your JavaScript programming skills."
+        
+    },
+    {
+        "_id": "002",
+        "course_name": "Front End Development",
+        "instructor_info": {
+            "instructor_name": "Sumit Saha",
+            "instructor_image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+        },
+        "category_id": "01",
+        "rating": 4.0,
+        "thumbnail_url": "https://plopdo.com/wp-content/uploads/2021/07/Screenshot-1-1210x642.png?crop=1",
+        "courseInfo": {
+            "course_duration": "35 Hour",
+            "enrolled": "1856"
+        },
+        "price": 4500,
+        "course_description": "Front-end engineers work closely with designers to make websites beautiful, functional, and fast. This Career Path will teach you not only the necessary languages and technologies, but how to think like a front-end engineer, too. By the end, you’ll have the portfolio and interview skills you need to start your new career. About this Career Path Get in-depth knowledge: Learning to code means more than just memorizing syntax. Instead, we help you think like a real programmer. Get a helpful roadmap: Like a career advisor, we guide you through each step. You’ll learn the right thing at the right time, all in one place."
+    },
+    {
+        "_id": "003",
+        "course_name": "MERN Stack Development",
+        "instructor_info": {
+            "instructor_name": "Anisul Islam",
+            "instructor_image": "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80"
+        },
+        "category_id": "01",
+        "rating": 4.3,
+        "thumbnail_url": "https://www.creativeitinstitute.com/images/course/course_1662795698.jpg",
+        "courseInfo": {
+            "course_duration": "80 Hour",
+            "enrolled": "2156"
+        },
+        "price": 6000,
+        "course_description": "What's up everybody, this is jack from skill lab and welcome to my MERN Stack course . During the course we will build full stack application (Jobify) from scratch, using MongoDB, Express, React and Node.js. Developers who are familiar with React and Express Fundamentals and now want to learn how to build and deploy MERN application from scratch"
+    },
+    {
+        "_id": "004",
+        "course_name": "Full Stack Development with Python",
+        "instructor_info": {
+            "instructor_name": "Hitesh Chawudhury",
+            "instructor_image": "https://images.unsplash.com/photo-1583692331507-fc0bd348695d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80"
+        },
+        "category_id": "01",
+        "rating": 4.5,
+        "thumbnail_url": "https://www.creativeitinstitute.com/images/course/course_1662801340.jpg",
+        "courseInfo": {
+            "course_duration": "75 Hour",
+            "enrolled": "1243"
+        },
+        "price": 8000,
+        "course_description": "Learn full stack web development using Python and WEB2PY. WEB2PY is an easy to learn, integrate framework that includes a web server, admin, bootstap, and sqlite database. One simple download has everything you need to build robust, data driven web applications. This project-based course is for beginners new to web development or those who want to quickly learn a Python web framework."
+    },
+    {
+        "_id": "005",
+        "course_name": "Blockchain Development",
+        "instructor_info": {
+            "instructor_name": "Quency Larence",
+            "instructor_image": "https://www.seekpng.com/png/full/57-576498_man-face-png-happy-people-face-png.png"
+        },
+        "category_id": "06",
+        "rating": 4.00,
+        "thumbnail_url": "https://enugutechhub.en.gov.ng/wp-content/uploads/2022/03/blockchain-development-social.jpg",
+        "courseInfo": {
+            "course_duration": "20 Hour",
+            "enrolled": "856"
+        },
+        "price": 10000,
+        "course_description": "Quickly get the working knowledge you need and earn your certificate of completion in blockchain and Bitcoin from a globally recognized blockchain and Bitcoin expert by enrolling now! Listening and acting upon valuable feedback from the many tens of thousands of students worldwide who are currently enrolled in this course - I have added new video and valuable content including Smart Contracts, Cryptocurrency, DAOs, DACs and even video lectures on Bitcoin Cash - the new cryptocurrency born out of a Bitcoin Hard Fork. I've also included lessons and a downloadable guide on how to best manage any possible future Hard forks in the most profitable and safe manner."
+    },
+    {
+        "_id": "006",
+        "course_name": "Back end Development with python",
+        "instructor_info": {
+            "instructor_name": "Jhankar Mahabub",
+            "instructor_image": "https://phero-web.nyc3.cdn.digitaloceanspaces.com/website-prod-images/public/files/1646062178613.png"
+        },
+        "category_id": "01",
+        "rating": 4.4,
+        "thumbnail_url": "https://www.freecodecamp.org/news/content/images/2021/06/backendpython.png",
+        "courseInfo": {
+            "course_duration": "30 Hour",
+            "enrolled": "1757"
+        },
+        "price": 6000,
+        "course_description": "Welcome to the Python and Django Full Stack Web Developer Bootcamp! In this course we cover everything you need to know to build a website using Python, Django, and many more web technologies! Whether you want to change career paths, expand your current skill set, start your own entrepreneurial business, become a consultant, or just want to learn, this is the course for you! We will teach you the latest technologies for building great web applications with Python 3 and Django! But we don't just teach that, we also teach the Front End technologies you need to know, including HTML, CSS, and Javascript. This course can be your one stop shop for everything you need! It will serve as a useful reference for many of your questions as you begin your journey in becoming a web developer!"
+    },
+    {
+        "_id": "007",
+        "course_name": "App Development with flluter",
+        "instructor_info": {
+            "instructor_name": "Adam Smith",
+            "instructor_image": "https://images.unsplash.com/photo-1624395213043-fa2e123b2656?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fG1hbiUyMGZhY2V8ZW58MHx8MHx8&auto=format&fit=crop&w=700&q=60"
+        },
+        "category_id": "02",
+        "rating": 4.1,
+        "thumbnail_url": "https://uploads-ssl.webflow.com/5f841209f4e71b2d70034471/60bb4a2e143f632da3e56aea_Flutter%20app%20development%20(2).png",
+        "courseInfo": {
+            "course_duration": "25 Hour",
+            "enrolled": "2056"
+        },
+        "price": 4500,
+        "course_description": "Welcome to the Complete Flutter App Development Bootcamp with Dart - created in collaboration with the Google Flutter team. Now includes a brand new module on Flutter State Management! Covering all the fundamental concepts for Flutter development, this is the most comprehensive Flutter course available online. We built this course over months, perfecting the curriculum together with the Flutter team to teach you Flutter from scratch and make you into  a skilled Flutter developer with a strong portfolio of beautiful Flutter apps. Our complete Flutter development bootcamp teaches you how to code using Dart and build beautiful, fast, native-quality iOS and Android apps. Even if you have ZERO programming experience."
+    },
+    {
+        "_id": "008",
+        "course_name": "C++ programming beginners",
+        "instructor_info": {
+            "instructor_name": "Deniss Rechie",
+            "instructor_image": "https://images.unsplash.com/photo-1552374196-c4e7ffc6e126?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fG1hbiUyMGZhY2V8ZW58MHx8MHx8&auto=format&fit=crop&w=700&q=60"
+        },
+        "category_id": "06",
+        "rating": 4.4,
+        "thumbnail_url": "https://i.pinimg.com/736x/ec/29/74/ec2974b3e78fcbb2600af2e61c3c7b8d.jpg",
+        "courseInfo": {
+            "course_duration": "20 Hour",
+            "enrolled": "968"
+        },
+        "price": 2000,
+        "course_description": "C++ is a very popular language for performance-critical applications that rely on speed and efficient memory management. It’s used in a wide range of industries including software and game development, VR, robotics, and scientific computing."
+    },
+    {
+        "_id": "009",
+        "course_name": "Professional Graphics Design",
+        "instructor_info": {
+            "instructor_name": "Aminul Islam",
+            "instructor_image": "https://images.unsplash.com/photo-1552374196-c4e7ffc6e126?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fG1hbiUyMGZhY2V8ZW58MHx8MHx8&auto=format&fit=crop&w=700&q=60"
+        },
+        "category_id": "03",
+        "rating": 4.4,
+        "thumbnail_url": "https://www.creativeitinstitute.com/images/course/course_1665409737.jpg",
+        "courseInfo": {
+            "course_duration": "20 Hour",
+            "enrolled": "1968"
+        },
+        "price": 4000,
+        "course_description": "Graphic Design Master Class - Learn GREAT Design Do you want to learn all the skills and techniques you need to create incredible designs? Do you want to know the process of creating logos and branding packages? Are you intimidated by learning photoshop, illustrator or InDesign and want to learn through practical real world projects? Than This class will be for you! We will extensively review Typography, color theory, layout and composition, how to use photos in design, photo manipulations and editing and magazine layout design, branding and logo design just to name a few."
+    },
+    {
+        "_id": "010",
+        "course_name": "Motion Graphics",
+        "instructor_info": {
+            "instructor_name": "Akash Saha",
+            "instructor_image": "https://images.unsplash.com/photo-1552374196-c4e7ffc6e126?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fG1hbiUyMGZhY2V8ZW58MHx8MHx8&auto=format&fit=crop&w=700&q=60"
+        },
+        "category_id": "03",
+        "rating": 4.4,
+        "thumbnail_url": "https://www.creativeitinstitute.com/images/course/course_1662552115.jpg",
+        "courseInfo": {
+            "course_duration": "35 Hour",
+            "enrolled": "1400"
+        },
+        "price": 10000,
+        "course_description": "Graphic Design Master Class - Learn GREAT Design Do you want to learn all the skills and techniques you need to create incredible designs? Do you want to know the process of creating logos and branding packages? Are you intimidated by learning photoshop, illustrator or InDesign and want to learn through practical real world projects? Than This class will be for you! We will extensively review Typography, color theory, layout and composition, how to use photos in design, photo manipulations and editing and magazine layout design, branding and logo design just to name a few."
+    },
+    {
+        "_id": "010",
+        "course_name": "UI/UX Design",
+        "instructor_info": {
+            "instructor_name": "Akash Saha",
+            "instructor_image": "https://images.unsplash.com/photo-1552374196-c4e7ffc6e126?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fG1hbiUyMGZhY2V8ZW58MHx8MHx8&auto=format&fit=crop&w=700&q=60"
+        },
+        "category_id": "03",
+        "rating": 4.4,
+        "thumbnail_url": "https://www.creativeitinstitute.com/images/course/course_1662637290.jpg",
+        "courseInfo": {
+            "course_duration": "35 Hour",
+            "enrolled": "1400"
+        },
+        "price": 10000,
+        "course_description": "Graphic Design Master Class - Learn GREAT Design Do you want to learn all the skills and techniques you need to create incredible designs? Do you want to know the process of creating logos and branding packages? Are you intimidated by learning photoshop, illustrator or InDesign and want to learn through practical real world projects? Than This class will be for you! We will extensively review Typography, color theory, layout and composition, how to use photos in design, photo manipulations and editing and magazine layout design, branding and logo design just to name a few."
+    },
+    {
+        "_id": "011",
+        "course_name": "Digital Marketing",
+        "instructor_info": {
+            "instructor_name": "Akash Saha",
+            "instructor_image": "https://images.unsplash.com/photo-1552374196-c4e7ffc6e126?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fG1hbiUyMGZhY2V8ZW58MHx8MHx8&auto=format&fit=crop&w=700&q=60"
+        },
+        "category_id": "04",
+        "rating": 4.4,
+        "thumbnail_url": "https://www.creativeitinstitute.com/images/course/course_1662724358.jpg",
+        "courseInfo": {
+            "course_duration": "35 Hour",
+            "enrolled": "1400"
+        },
+        "price": 10000,
+        "course_description": "Graphic Design Master Class - Learn GREAT Design Do you want to learn all the skills and techniques you need to create incredible designs? Do you want to know the process of creating logos and branding packages? Are you intimidated by learning photoshop, illustrator or InDesign and want to learn through practical real world projects? Than This class will be for you! We will extensively review Typography, color theory, layout and composition, how to use photos in design, photo manipulations and editing and magazine layout design, branding and logo design just to name a few."
+    },
+    {
+        "_id": "012",
+        "course_name": "Search Engine Optimization(SEO)",
+        "instructor_info": {
+            "instructor_name": "Akash Saha",
+            "instructor_image": "https://images.unsplash.com/photo-1552374196-c4e7ffc6e126?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fG1hbiUyMGZhY2V8ZW58MHx8MHx8&auto=format&fit=crop&w=700&q=60"
+        },
+        "category_id": "04",
+        "rating": 4.4,
+        "thumbnail_url": "https://www.creativeitinstitute.com/images/course/course_1662962744.jpg",
+        "courseInfo": {
+            "course_duration": "35 Hour",
+            "enrolled": "1400"
+        },
+        "price": 10000,
+        "course_description": "Graphic Design Master Class - Learn GREAT Design Do you want to learn all the skills and techniques you need to create incredible designs? Do you want to know the process of creating logos and branding packages? Are you intimidated by learning photoshop, illustrator or InDesign and want to learn through practical real world projects? Than This class will be for you! We will extensively review Typography, color theory, layout and composition, how to use photos in design, photo manipulations and editing and magazine layout design, branding and logo design just to name a few."
+    },
+    {
+        "_id": "013",
+        "course_name": "Social Media Marketing",
+        "instructor_info": {
+            "instructor_name": "Akash Saha",
+            "instructor_image": "https://images.unsplash.com/photo-1552374196-c4e7ffc6e126?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fG1hbiUyMGZhY2V8ZW58MHx8MHx8&auto=format&fit=crop&w=700&q=60"
+        },
+        "category_id": "04",
+        "rating": 4.4,
+        "thumbnail_url": "https://www.creativeitinstitute.com/images/course/course_1663052587.jpg",
+        "courseInfo": {
+            "course_duration": "35 Hour",
+            "enrolled": "1400"
+        },
+        "price": 10000,
+        "course_description": "Graphic Design Master Class - Learn GREAT Design Do you want to learn all the skills and techniques you need to create incredible designs? Do you want to know the process of creating logos and branding packages? Are you intimidated by learning photoshop, illustrator or InDesign and want to learn through practical real world projects? Than This class will be for you! We will extensively review Typography, color theory, layout and composition, how to use photos in design, photo manipulations and editing and magazine layout design, branding and logo design just to name a few."
+    },
+    {
+        "_id": "014",
+        "course_name": "Amazon Web Service",
+        "instructor_info": {
+            "instructor_name": "Akash Saha",
+            "instructor_image": "https://images.unsplash.com/photo-1552374196-c4e7ffc6e126?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fG1hbiUyMGZhY2V8ZW58MHx8MHx8&auto=format&fit=crop&w=700&q=60"
+        },
+        "category_id": "05",
+        "rating": 4.4,
+        "thumbnail_url": "https://www.creativeitinstitute.com/images/course/course_1663655990.jpg",
+        "courseInfo": {
+            "course_duration": "35 Hour",
+            "enrolled": "1400"
+        },
+        "price": 10000,
+        "course_description": "Graphic Design Master Class - Learn GREAT Design Do you want to learn all the skills and techniques you need to create incredible designs? Do you want to know the process of creating logos and branding packages? Are you intimidated by learning photoshop, illustrator or InDesign and want to learn through practical real world projects? Than This class will be for you! We will extensively review Typography, color theory, layout and composition, how to use photos in design, photo manipulations and editing and magazine layout design, branding and logo design just to name a few."
+    }
+]
